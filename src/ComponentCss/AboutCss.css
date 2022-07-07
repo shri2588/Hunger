@@ -1,0 +1,24 @@
+#About-div{
+    padding: 50px;
+    background-color: #222831;
+    color: white;
+    margin-top: 50px;
+}
+.heading{
+    font-size: 45px;
+    font-weight: 0%;
+    font-family:cursive;
+}
+.readmore-btn{
+    background-color: #FFBE33;
+    color: white;
+    font-weight: 600;
+    padding: 2% 5%;
+    border: 0px;
+}
+.readmore-btn:hover{
+    background-color: #f5ab0b;
+}
+#about-right-div{
+    margin-top: 100px;
+}

@@ -1,0 +1,10 @@
+.readmore-btn{
+    background-color: #FFBE33;
+    color: white;
+    font-weight: 600;
+    padding: 2% 5%;
+    border: 0px;
+}
+.readmore-btn:hover{
+    background-color: #f5ab0b;
+}

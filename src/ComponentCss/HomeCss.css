@@ -1,0 +1,6 @@
+#Header-Container{
+   background:url(../img/hero-bg.jpg);
+   background-size: cover;
+   height:100vh;
+   position: relative;
+}
