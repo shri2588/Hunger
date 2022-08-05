@@ -6,7 +6,7 @@ import { BsPersonFill , BsSearch , BsCartCheck} from 'react-icons/bs'
 const NavbarComp = () => {
   return (
     <>
-        <Navbar   expand="lg" style={{ background:'transparent'}}>
+        <Navbar  fixed="top" expand="lg" style={{ background:'black'}}>
       <Container>
         <Navbar.Brand href="#home">
           <h3 style={{ color:'white',fontFamily: "Dancing Script, cursive" }}>
@@ -26,7 +26,7 @@ const NavbarComp = () => {
             <Nav.Link href="#link" style={{color:'white',margin:'0px 0px',fontSize:'20px'}} className="Nav-Links"><BsPersonFill /></Nav.Link>
             <Nav.Link href="#link" style={{color:'white',margin:'0px 0px',fontSize:'20px'}} className="Nav-Links"><BsCartCheck /></Nav.Link>
             <Nav.Link href="#link" style={{color:'white',marginRight:'10px',fontSize:'20px'}} className="Nav-Links"><BsSearch /></Nav.Link>
-            <Button variant="warning" style={{ color:'white',fontWeight:600 }}>Online Order</Button>
+            <Button variant="warning" style={{ color:'white',fontWeight:600 }}>Place Order</Button>
           </Nav>
           </Nav>
         </Navbar.Collapse>

@@ -33,7 +33,7 @@ const Footer = () => {
                             Hunger Street
                             </p>
                             <p>
-                            Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with
+                            Our mission is to inspire healthier communities by connecting people to real food
                             </p>
                             <h4>
                                 <BsFacebook /> <BsTwitter /> <BsLinkedin /> <BsInstagram /> <BsPinterest />
@@ -57,11 +57,7 @@ const Footer = () => {
                     </Col>
                     <Col md={12}>
                         <br />
-                        <center>
-                            <p>
-                                © Distributed By ThemeWagon
-                            </p>
-                        </center>
+                       
                     </Col>
                 </Row>
             </Container>

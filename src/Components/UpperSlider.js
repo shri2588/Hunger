@@ -19,19 +19,13 @@ const UpperSlider = () => {
 
       <div>
         <Slider {...settings}>
-
-
-
-        
-
-
           <div>
           <Row>
           <Col md={6} style={{marginTop:200, padding:10, paddingLeft:30}}>
            
-              <h1 style={{ color: 'white' }}>Fast Food Restaurant</h1>
-               <p style={{ color: 'white' }} > Here’s what you need to know before getting started with the 
-                ki r=rosj jjsworfsoj Navbar</p>
+              <h1 style={{ color: 'white' }}>Foodies Welcome Here.</h1>
+               <p style={{ color: 'white' }} > A place where food, design, and ambiance come together to create a memorable experience.
+             </p>
            
               <Button variant="warning" style={{ color: 'white' }}> Order Online</Button>{' '}
           
@@ -42,9 +36,9 @@ const UpperSlider = () => {
           <Row>
           <Col md={6} style={{marginTop:200, padding:10, paddingLeft:30}}>
            
-              <h1 style={{ color: 'white' }}>Fast Food Restaurant</h1>
-               <p style={{ color: 'white' }} > Here’s what you need to know before getting started with the 
-                ki r=rosj jjsworfsoj Navbar</p>
+              <h1 style={{ color: 'white' }}>We are always here to serve you.</h1>
+               <p style={{ color: 'white' }} > A modern restaurant with a menu that will make your mouth water.
+                </p>
            
               <Button variant="warning" style={{ color: 'white' }}> Order Online</Button>{' '}
           

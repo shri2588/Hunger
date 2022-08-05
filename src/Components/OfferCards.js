@@ -22,7 +22,7 @@ const OfferCards = () => {
                     </Col>
                     <Col md={8} >
                         <br />
-                        <h3 style={{ color:'white' }}>Tasty Thursdays</h3>
+                        <h3 style={{ color:'white' }}>Burger-Holic</h3>
                       
                         <Button  variant="warning" style={{ color:'white' }}>Order Now  <BsCartDashFill /></Button>{' '}
                     </Col>

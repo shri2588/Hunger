@@ -19,12 +19,7 @@ const About = () => {
               <div id="about-right-div">
                 <p className="heading">We Are Hunger Street</p>
                 <p>
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a passage of
-                  Lorem Ipsum, you need to be sure there isn't anything
-                  embarrassing hidden in the middle of text. All
+                We are a tight-knit, fun-loving, devoted team of local cooks spreading the gospel of good times and good food in Sagar.  We offer limited capacity onsite events in our restaurant kitchen space. And worry not, our krewe will travel to your destination of choice – from hotel ballrooms to private kitchens – to entertain groups of all sizes. We cook, we tell stories, we deliver informative culinary demonstrations and lectures, but most of all … we treat every event like you’re a guest at our dinner table. Join us!
                 </p>
                 <Btn value="Read more..."></Btn>
                 
